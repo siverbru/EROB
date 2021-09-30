@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+# probability that a household member performs the household task.					
+# rows: different household tasks (cook. dishes. vacuum. iron. wash. dry)					
+# columns: employment types (FTE. PTE. Unemployed. Retired. School. Student)					
+
+0.070	0.100	0.110	0.100	0.020	0.030
+0.500	0.700	0.700	0.700	0.200	0.300
+0.350	0.550	0.770	0.440	0.09	0.150
+0.096	0.223	0.189	0.101	0.005	0.025
+0.097	0.211	0.153	0.085	0.005	0.023
+0.017	0.049	0.029	0.025	0.002	0.006
