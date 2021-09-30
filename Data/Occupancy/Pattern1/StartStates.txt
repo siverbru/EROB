@@ -1,0 +1,10 @@
+############################################################################
+# Occupancy Start States for Pattern 1: Nightshift                                  
+#                                                                          
+# cumulative probability distribution for time-step 1 (= 4AM)        
+#	column 1 = at home and awake                                  
+# 	column 2 = sleeping                                           
+#       column 3 = absent	                                           
+############################################################################
+
+0.0161 0.2096 1.0000

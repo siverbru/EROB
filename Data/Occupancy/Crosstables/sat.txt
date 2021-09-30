@@ -1,0 +1,20 @@
+############################################################################
+# Crosstable Employment Saturday                                                    
+#       column   = employment type                                         
+#       col 1 = full-time								   
+#	col 2 = part-time									
+#       col 3 = unemployed									
+#	col 4 = retired									   
+#	col 5 = school									
+#	col 6 = student 								   
+#       row = pattern 1 until pattern 7 (nightshift, early start dayshift, short absence, dayshift, half day absence, long absence, always present)                                   
+############################################################################
+
+0.015 0.018 0.003 0.000 0.000 0.041
+0.034 0.053 0.008 0.013 0.008 0.007
+0.437 0.485 0.611 0.749 0.357 0.281
+0.282 0.278 0.168 0.157 0.225 0.199
+0.099 0.056 0.084 0.031 0.143 0.185
+0.093 0.082 0.057 0.026 0.058 0.123
+0.039 0.029 0.068 0.024 0.209 0.164
+

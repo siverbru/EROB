@@ -1,0 +1,10 @@
+############################################################################
+# Occupancy Start States for Pattern 3: short absence                                    
+#                                                                              
+# cumulative probability distribution for time-step 1 (= 4AM)        
+#	column 1 = at home and awake                                  
+#       column 2 = sleeping                                           
+#       column 3 = absent	                                           
+############################################################################
+
+0.0106 0.9986 1.0000
