@@ -1,7 +1,7 @@
 EROB-model
 ======
 
-**EROB** Event-based Residential Occupant Behaviour model created by Silke Verbruggen at the research group of Building Physics (Ghent University) to model occupant behaviour in the residential setting and for the implementation in dynamic modeling environments (e.g. IDEAS for Modelica).
+**EROB** Event-based Residential Occupant Behaviour model created by Silke Verbruggen at the research group of Building Physics (Ghent University) to model occupant behaviour in the residential setting and for the implementation in dynamic modeling environments (e.g. Modelica).
 The model is based on the StROBe-model as developed by Ruben Baetens (https://github.com/open-ideas/StROBe). 
 
 
